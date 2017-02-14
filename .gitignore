@@ -1,2 +1,5 @@
 # Ignorando arquivos de log
 .log
+
+# Ignorando objetos compilados
+.o

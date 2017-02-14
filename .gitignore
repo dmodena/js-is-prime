@@ -4,3 +4,6 @@
 # Ignorando objetos compilados
 .o
 .class
+
+# Arquivos cli
+.bat
